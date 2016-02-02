@@ -16,10 +16,19 @@ Alunos: Augusto César da Fonseca Falcão(Desenvolvedor)
 
 package com.mycompany.quintaproject1; 
 
+<<<<<<< HEAD
 /**
  *
  * @author Augusto César da Fonseca Falcão
  */
 public class ClassePrincipal {
     
+=======
+/** 
+ *
+ * @author Augusto César da Fonseca Falcão
+ */
+public class ClassePrincipal2 {
+    public static void main(String[] args){}
+>>>>>>> origin/master
 }
